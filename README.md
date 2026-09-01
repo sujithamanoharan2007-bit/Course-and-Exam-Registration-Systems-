@@ -4,7 +4,6 @@
 # Name : SUJITHA MAHALAKSHMI M
 # Date : 01/09/2026
 
-
 # AIM:
 To develop the Course Reservation and Exam Registration System using Star UML
 
